@@ -6,4 +6,4 @@ This is a simple python program for creating a Network Scanner
     * python3 network_scanner.py -t Target IP Address/IP range
     * OR
     * python3 network_scanner.py --target Target IP Address/IP range
- * You can also type --help for guidance 
+ * You can also type python3 network_scanner.py --help for guidance 
